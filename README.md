@@ -60,7 +60,8 @@ Input (224×224) -> EfficientNet-B0 - FROZEN -> Linear(1280 → 2) - TRAINABLE -
 ```bash
 pip install torch torchvision grad-cam opencv-python streamlit pyngrok pillow plotly scikit-learn matplotlib
 ```
-
+2. Then run every cell and attach your images to know whether they are real or fake.
+   
 ## Why This Matters
 Deepfakes can spread misinformation and enable identity fraud.  
 Explainable detection helps forensic analysts **understand the evidence**, making AI decisions **transparent and trustworthy**.
