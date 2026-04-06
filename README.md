@@ -59,6 +59,7 @@ Input (224×224) -> EfficientNet-B0 - FROZEN -> Linear(1280 → 2) - TRAINABLE -
 1. Install dependencies:
 ```bash
 pip install torch torchvision grad-cam opencv-python streamlit pyngrok pillow plotly scikit-learn matplotlib
+```
 
 ## Why This Matters
 Deepfakes can spread misinformation and enable identity fraud.  
