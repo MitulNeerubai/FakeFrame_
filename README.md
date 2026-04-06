@@ -60,8 +60,6 @@ Input (224×224) -> EfficientNet-B0 - FROZEN -> Linear(1280 → 2) - TRAINABLE -
 ```bash
 pip install torch torchvision grad-cam opencv-python streamlit pyngrok pillow plotly scikit-learn matplotlib
 
-<img width="1129" height="499" alt="image" src="https://github.com/user-attachments/assets/6400985c-ed9d-4fdb-9cd0-598d95576732" />
-
 ## Why This Matters
 Deepfakes can spread misinformation and enable identity fraud.  
 Explainable detection helps forensic analysts **understand the evidence**, making AI decisions **transparent and trustworthy**.
