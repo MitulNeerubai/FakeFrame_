@@ -47,13 +47,13 @@ Input (224×224) -> EfficientNet-B0 - FROZEN -> Linear(1280 → 2) - TRAINABLE -
 
 
 ## Tech Stack
-- PyTorch + torchvision — Training and inference  
-- EfficientNet-B0 — Pretrained CNN backbone  
-- pytorch-grad-cam — Heatmap generation  
-- scikit-learn — Evaluation metrics  
-- Streamlit — Dashboard  
-- Google Colab T4 — Free GPU  
-- pyngrok — Public dashboard URL  
+- PyTorch + torchvision - Training and inference  
+- EfficientNet-B0 - Pretrained CNN backbone  
+- pytorch-grad-cam - Heatmap generation  
+- scikit-learn - Evaluation metrics  
+- Streamlit - Dashboard  
+- Google Colab T4 - Free GPU  
+- pyngrok - Public dashboard URL  
 
 ## How To Run
 1. Install dependencies:
