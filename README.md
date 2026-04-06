@@ -67,6 +67,6 @@ Deepfakes can spread misinformation and enable identity fraud.
 Explainable detection helps forensic analysts **understand the evidence**, making AI decisions **transparent and trustworthy**.
 
 ## Limitations
-- Trained on CIFAKE (32×32 upscaled) — performance may differ on high-resolution, real-world deepfakes  
+- Trained on CIFAKE (32×32 upscaled) - performance may differ on high-resolution, real-world deepfakes  
 - Best performance on CIFAR-10 categories (animals, vehicles)  
 - Out-of-distribution images may produce less reliable results
