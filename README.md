@@ -1,7 +1,7 @@
 # FakeFrame - Explainable Deepfake Image Detector
 
 ## What is FakeFrame?
-FakeFrame is a deepfake image detection system that classifies images as REAL or FAKE and explains WHY using Grad-CAM heatmaps — showing exactly which regions the CNN focused on when making its decision.
+FakeFrame is a deepfake image detection system that classifies images as REAL or FAKE and explains WHY using Grad-CAM heatmaps - showing exactly which regions the CNN focused on when making its decision.
 Most deepfake detectors are black boxes. FakeFrame makes the decision explainable and transparent.
 
 User uploads an image -> EfficientNet-B0 (CNN) analyzes it -> REAL or FAKE + confidence score -> Grad-CAM heatmap shows WHERE the CNN found evidence
